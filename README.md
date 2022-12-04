@@ -26,3 +26,7 @@ MapDraw에 구현한 함수들을 호출하여
 **MapDraw.cpp MapDraw.h**
 
 바둑판과 커서 그리고 놓여진 바둑돌을 그리는 함수를 직접 구현하여둔 클래스. Player에서 필요할때마다 함수를 호출하여 사용할 수 있게 구현
+
+
+실제 플레이 영상
+https://youtu.be/U6QiowpcfV0
