@@ -30,3 +30,6 @@ MapDraw에 구현한 함수들을 호출하여
 
 실제 플레이 영상
 https://youtu.be/U6QiowpcfV0
+
+다운로드
+http://naver.me/IGGK5iiP
