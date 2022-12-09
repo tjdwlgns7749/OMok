@@ -2,6 +2,8 @@
 
 C++ 을 활용해서 만든 오목게임 입니다.
 
+![오목 클래스](https://user-images.githubusercontent.com/82795868/206744899-30c97324-5a8c-4ab3-8e74-e1248a625a97.png)
+
 **소스.cpp**
 
 PlayerManager를 객체로 1개 생성하여 게임시작
